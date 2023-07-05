@@ -22,6 +22,12 @@ Page 4 on clicking on logout , login page comes
 ![image](https://github.com/pranavraj101/Wizphys-/assets/63108839/d89f4623-5390-4d96-ba2f-b0368427e3f2)
 
 
+## Languages used 
+
+React framework for Frontend (React Bootstrap for Design elements)
+Google Firebase for backend 
+
+![image](https://github.com/pranavraj101/Wizphys-/assets/63108839/16290802-c12e-49ae-a635-3bf50e53d21f)
 
 
 
